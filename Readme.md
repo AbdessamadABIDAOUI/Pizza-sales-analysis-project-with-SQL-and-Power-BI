@@ -1,8 +1,8 @@
 here's a look on the final Dashbord:
-!![](Screenshot 2024-02-22 051108.png)
+![](Screenshot%202024-02-22%20051108.png)
 
 
-![](Screenshot 2024-02-22 051133.png)
+![](Screenshot%202024-02-22%20051133.png)
 
 PIZZA SALES SQL QUERIES
 
